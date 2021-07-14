@@ -6,12 +6,12 @@
 
 	## Funcionamento
 
-	- A detalhar
+	- 
 	
 ## Módulo de Leitura
 
-- Página bem simples que faz as seguintes operações:
-	-A detalhar
+-
+	-
 	
 	<br />
 
